@@ -1,4 +1,13 @@
 {
+  "users":[
+    {
+      "id":1,"name":"gnaneshwar","age":21
+    },{
+      "id":2,"name":"gnaneshwar","age":21
+    },{
+      "id":3,"name":"gnaneshwar","age":21
+    }
+  ]
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
